@@ -1,0 +1,18 @@
+# Google service account credentials (never commit)
+src/google_stuff/*.json
+
+# Python
+.venv/
+venv/
+*.egg-info/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
